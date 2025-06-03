@@ -16,14 +16,6 @@ The project was developed in **R** using a combination of **`dplyr`**, **`ggplot
 
 ---
 
-## 👨‍💻 Authors
-
-- **Mohamed Amine Tlili**
-- **Mohamed Aziz Loukil**
-- **Mohamed Laatar**
-
----
-
 ## 📊 Project Goals
 
 - Merge and clean large-scale `.txt` ridership datasets
@@ -83,6 +75,15 @@ The project was developed in **R** using a combination of **`dplyr`**, **`ggplot
 
 ---
 
+
+## 👨‍💻 Authors
+
+- **Mohamed Amine Tlili**
+- **Mohamed Aziz Loukil**
+- **Mohamed Laatar**
+
+ ---
+ 
 ## 🚀 How to Run Locally
 
 ```r
