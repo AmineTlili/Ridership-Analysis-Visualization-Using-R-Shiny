@@ -1,0 +1,7 @@
+"0",""
+"0","# Group merged_data by ""ID_REFA_LDA"""
+"0","final_data <- aggregated_data %>%"
+"0","  inner_join(filtered_data, by = c(""ID_REFA_LDA"" = ""ZdCId""))"
+"2","Warning: Detected an unexpected many-to-many relationship between `x` and `y`."
+"0","# View the resulting dataset"
+"0","head(final_data)"

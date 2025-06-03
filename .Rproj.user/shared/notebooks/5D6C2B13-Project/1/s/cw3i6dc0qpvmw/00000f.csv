@@ -1,0 +1,3 @@
+"0",""
+"0","# Create a variable indicating holiday or non-holiday"
+"0","result$HolidayType <- ifelse(floor_date(result$JOUR, ""day"") %in% holidays, ""Holiday"", ""Non-Holiday"")"

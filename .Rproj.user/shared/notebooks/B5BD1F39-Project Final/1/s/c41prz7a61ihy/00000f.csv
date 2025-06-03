@@ -1,0 +1,5 @@
+"0","# Group by weekday and special period, calculate the mean for each day"
+"0","mean_by_weekday_and_special_period <- result %>%"
+"0","  group_by(Weekday, StudentHolidays) %>%"
+"0","  summarize(Mean_Sum_NB_VALD = mean(Total_NB_VALD, na.rm = TRUE))"
+"2","`summarise()` has grouped output by 'Weekday'. You can override using the `.groups` argument."

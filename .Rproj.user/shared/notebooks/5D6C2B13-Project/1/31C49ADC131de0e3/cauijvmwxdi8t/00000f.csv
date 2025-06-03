@@ -1,0 +1,16 @@
+"0","library(dplyr)"
+"0","library(lubridate)"
+"2","Warning: package ‘lubridate’ was built under R version 4.3.3"
+"2","
+Attaching package: ‘lubridate’
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+"
+"0","monthly_data <- result %>%"
+"0","  mutate(YearMonth = format(JOUR, ""%Y-%m"")) %>%  "
+"0","  group_by(YearMonth) %>%"
+"0","  summarize(Total_NB_VALD = mean(Total_NB_VALD))"

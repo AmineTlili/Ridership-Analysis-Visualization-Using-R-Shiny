@@ -1,0 +1,31 @@
+{
+    "id": "0ED016F2",
+    "path": "~/gustave course/analyse et visualisation/R_Project/Project Final.qmd",
+    "project_path": "Project Final.qmd",
+    "type": "quarto_markdown",
+    "hash": "379967395",
+    "contents": "",
+    "dirty": false,
+    "created": 1736371920260.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "46376:40461.6015625",
+        "cursorPosition": "1440,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1736373976,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1736374127499,
+    "read_only": false,
+    "read_only_alternatives": []
+}

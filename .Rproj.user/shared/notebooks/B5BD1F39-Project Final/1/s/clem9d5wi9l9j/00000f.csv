@@ -1,0 +1,2 @@
+"0","filtered_result <- result %>%"
+"0","  filter(format(JOUR, ""%Y"") %in% c(""2021"", ""2022"", ""2023""))"

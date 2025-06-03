@@ -1,0 +1,7 @@
+"0","# Load the new dataset"
+"0","library(readxl)"
+"0",""
+"0","# Load the new dataset from Excel"
+"0",""
+"0","new_data <- read_excel(""./data/zones-d-arrets.xlsx"")  # Replace with the actual path"
+"0","head(new_data)"

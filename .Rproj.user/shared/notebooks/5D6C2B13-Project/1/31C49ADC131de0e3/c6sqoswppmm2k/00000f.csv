@@ -1,0 +1,16 @@
+"0","# Run the application"
+"0","shinyApp(ui, server)"
+"2","
+Listening on http://127.0.0.1:7502
+"
+"2","Warning:"
+"2"," Error in sub: input string 1 is invalid UTF-8
+"
+"2","  3: [37mrunApp[39m
+"
+"2",""
+"2","  2: [37mprint.shiny.appobj[39m
+"
+"2",""
+"2","  1: [37m<Anonymous>[39m
+"

@@ -1,0 +1,2 @@
+"0","write.csv(merged_PROFIL_FER,""./Deployement/merged_PROFIL_FER.csv"",row.names=FALSE)"
+"0","write.csv(filtered_result,""./Deployement/final_data.csv"",row.names=FALSE)"

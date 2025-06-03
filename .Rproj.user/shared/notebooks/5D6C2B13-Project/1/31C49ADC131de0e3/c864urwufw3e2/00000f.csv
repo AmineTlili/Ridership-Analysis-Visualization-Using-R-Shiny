@@ -1,0 +1,5 @@
+"0","# Combinez toutes les dates de vacances"
+"0","vacances_scolaires <- c(vacances_toussaint, vacances_noel, vacances_hiver, vacances_printemps, vacances_ete)"
+"0",""
+"0","# Créez la colonne 'VacancesScolaires' dans votre dataframe"
+"0","result$StudentHolidays <- ifelse(result$JOUR %in% vacances_scolaires, ""Yes"", ""No"")"

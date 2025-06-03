@@ -1,0 +1,6 @@
+"0","# Filter the dataset to keep only 'railStation' and 'metroStation' in the 'ZdAType' column"
+"0","filtered_data <- new_data %>%"
+"0","  filter(ZdAType %in% c(""railStation"", ""metroStation""))"
+"0",""
+"0","# View the filtered data"
+"0","head(filtered_data)"

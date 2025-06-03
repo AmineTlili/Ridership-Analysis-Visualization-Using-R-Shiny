@@ -1,0 +1,3 @@
+"0","# Replace ""?"" with NON DEFINI in the column CATEGORIE_TITRE"
+"0","merged_data <- merged_data %>%"
+"0","  mutate(CATEGORIE_TITRE = ifelse(CATEGORIE_TITRE == ""?"", ""NON DEFINI"", CATEGORIE_TITRE))"

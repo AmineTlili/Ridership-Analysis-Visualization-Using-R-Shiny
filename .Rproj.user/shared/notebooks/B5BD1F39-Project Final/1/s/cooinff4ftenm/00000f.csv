@@ -1,0 +1,6 @@
+"0",""
+"0",""
+"0","monthly_data <- result %>%"
+"0","  mutate(YearMonth = format(JOUR, ""%Y-%m"")) %>%  "
+"0","  group_by(YearMonth) %>%"
+"0","  summarize(Total_NB_VALD = mean(Total_NB_VALD))"

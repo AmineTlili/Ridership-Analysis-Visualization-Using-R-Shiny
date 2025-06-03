@@ -1,0 +1,17 @@
+---
+title: "Project"
+library(leaflet)
+library(dplyr)
+library(stringr)
+library(readxl)
+library(shiny)
+library(sf)
+library(rsconnect)
+library(leaflet)
+install.packages("sf", dependencies = TRUE)
+install.packages("dplyr")
+install.packages("stringr")
+install.packages("readxl")
+install.packages("shiny")
+install.packages("rsconnect")
+install.packages("leaflet")

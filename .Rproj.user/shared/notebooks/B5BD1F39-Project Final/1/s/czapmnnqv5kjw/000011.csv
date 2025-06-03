@@ -1,0 +1,7 @@
+"0","subset_data_2 <- result$Total_NB_VALD[1:(2 * 30)]  "
+"0",""
+"0","# Set frequency to 7 for weekely seasonality (adjust as needed)"
+"0","decomposition2 <- decompose(ts(subset_data_2, frequency = 7))"
+"0",""
+"0","# Plot the decomposed time series"
+"0","plot(decomposition2)"

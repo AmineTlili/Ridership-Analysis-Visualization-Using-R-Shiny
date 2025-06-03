@@ -1,0 +1,4 @@
+"0","merged_data$CODE_STIF_RES <- as.integer(merged_data$CODE_STIF_RES)"
+"0","merged_data$CODE_STIF_TRNS <- as.integer(merged_data$CODE_STIF_TRNS)"
+"0","merged_data$CODE_STIF_ARRET <- as.integer(merged_data$CODE_STIF_ARRET)"
+"0","merged_data$NB_VALD <- as.integer(merged_data$NB_VALD)"

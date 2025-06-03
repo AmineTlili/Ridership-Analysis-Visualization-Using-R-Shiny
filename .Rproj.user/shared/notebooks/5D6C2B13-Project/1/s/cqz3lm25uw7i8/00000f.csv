@@ -1,0 +1,2 @@
+"0","final_data1 <- read.csv(""final_data2.csv"",encoding = ""latin1"")"
+"0","#final_data1 <- head(data,10000)"

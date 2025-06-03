@@ -1,0 +1,4 @@
+"0","# Calculate the mean for holiday days"
+"0","mean_holiday <- mean_by_weekday %>%"
+"0","  filter(HolidayType == ""Holiday"") %>%"
+"0","  summarize(Mean_Sum_NB_VALD_Holiday = mean(Mean_Sum_NB_VALD, na.rm = TRUE))"

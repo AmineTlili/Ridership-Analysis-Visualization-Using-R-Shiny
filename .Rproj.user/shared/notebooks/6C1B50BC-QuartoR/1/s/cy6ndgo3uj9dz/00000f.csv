@@ -1,0 +1,7 @@
+"0","# Function to check if a date is within a special period"
+"0","is_special_period <- function(date, special_periods) {"
+"0","  return(any(date %in% special_periods))"
+"0","}"
+"0",""
+"0","# Get the range of years in your dataset"
+"0","data_years <- unique(year(final_data$JOUR))"

@@ -1,0 +1,8 @@
+"0","# Plot monthly trends"
+"0","ggplot(result, aes(x = format(JOUR, ""%Y-%m""), y = Total_NB_VALD)) +"
+"0","  geom_bar(stat = ""summary"", fun = ""mean"", fill = ""skyblue"") +"
+"0","  labs(title = ""Monthly Average Ridership"","
+"0","       x = ""Month"","
+"0","       y = ""Mean NB_VALD"")+"
+"0","  theme_minimal() +"
+"0","  theme(axis.text.x = element_text(angle = 45, hjust = 1))"

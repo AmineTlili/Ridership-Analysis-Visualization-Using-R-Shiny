@@ -1,0 +1,5 @@
+"0","#monthly seasonality over five years "
+"0",""
+"0","decomposition3 <- decompose(ts(monthly_data$Total_NB_VALD, start = c(2018, 1), frequency = 12))"
+"0",""
+"0","plot(decomposition3)"

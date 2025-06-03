@@ -1,0 +1,7 @@
+"0","subset_data <- final_data$Sum_NB_VALD[1:(24 * 60)]  #We put 60 because we have 2 lines for each day (the entries for each station). 24*60 is equivalent to 2 years."
+"0",""
+"0","# Set frequency to 364 for yearly seasonality (adjust as needed)"
+"0","decomposition <- decompose(ts(subset_data, frequency = 364))"
+"0",""
+"0","# Plot the decomposed time series"
+"0","plot(decomposition)"

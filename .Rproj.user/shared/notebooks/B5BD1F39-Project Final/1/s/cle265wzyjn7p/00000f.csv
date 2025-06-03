@@ -1,0 +1,2 @@
+"0","# Clear the environment to ensure no variables or objects interfere with the script"
+"0","rm(list = ls())"

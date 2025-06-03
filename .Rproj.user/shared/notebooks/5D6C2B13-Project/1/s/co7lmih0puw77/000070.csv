@@ -1,0 +1,7 @@
+"0","# Run the application"
+"0","shinyApp(ui, server)"
+"2","
+Listening on http://127.0.0.1:3948
+"
+"2","Warning: The select input ""dist_station"" contains a large number of options; consider using server-side selectize for massively improved performance. See the Details section of the ?selectizeInput help topic."
+"2","`summarise()` has grouped output by 'LIBELLE_ARRET'. You can override using the `.groups` argument."

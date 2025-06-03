@@ -1,0 +1,2 @@
+"0","final_data1 <- read.csv(""./Deployement/final_data.csv"",encoding = ""latin1"")"
+"0","merged_PROFIL_FER <- read.csv(""./Deployement/merged_PROFIL_FER.csv"",encoding = ""latin1"")"

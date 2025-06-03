@@ -1,0 +1,6 @@
+"0","# Identify holiday periods "
+"0","holidays <- as.Date(c(""2017-12-25"", ""2018-01-01"", ""2018-07-14"", ""2018-12-25"", ""2019-01-01"", ""2019-07-14"", ""2019-12-25"", ""2020-01-01"", ""2020-07-14"", ""2020-12-25"", ""2021-01-01"", ""2021-07-14"", ""2021-12-25"", ""2022-01-01"", ""2022-07-14""))"
+"0",""
+"0","# Create a variable indicating holiday or non-holiday"
+"0","final_data$HolidayType <- ifelse(floor_date(final_data$JOUR, ""day"") %in% holidays, ""Holiday"", ""Non-Holiday"")"
+"0",""

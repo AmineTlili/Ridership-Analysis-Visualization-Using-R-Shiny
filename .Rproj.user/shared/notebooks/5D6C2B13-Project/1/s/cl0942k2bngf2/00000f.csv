@@ -1,0 +1,2 @@
+"0","# Convert the date column from string to Date"
+"0","result$JOUR <- as.Date(result$JOUR, format = ""%d/%m/%Y"")"

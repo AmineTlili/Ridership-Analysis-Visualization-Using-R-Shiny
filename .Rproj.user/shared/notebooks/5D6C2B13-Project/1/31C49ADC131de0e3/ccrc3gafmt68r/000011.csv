@@ -1,0 +1,14 @@
+"0","print(head(filtered_new_data))"
+"1","Simple feature collection with 6 features and 28 fields"
+"1","
+"
+"1","Geometry type: POINT
+"
+"1","Dimension:     XY
+"
+"1","Bounding box:  "
+"1","xmin: 2.282436 ymin: 48.81479 xmax: 2.42235 ymax: 48.88438"
+"1","
+"
+"1","Geodetic CRS:  WGS 84
+"

@@ -1,0 +1,9 @@
+"0","# Plot monthly trends"
+"0","ggplot(final_data, aes(x = format(JOUR, ""%Y-%m""), y = Sum_NB_VALD)) +"
+"0","  geom_bar(stat = ""summary"", fun = ""mean"", fill = ""skyblue"") +"
+"0","  labs(title = ""Monthly Average Ridership"","
+"0","       x = ""Month"","
+"0","       y = ""Mean NB_VALD"")"
+"2","Error in as.list.environment(X) : 
+  promise already under evaluation: recursive default argument reference or earlier problems?
+"

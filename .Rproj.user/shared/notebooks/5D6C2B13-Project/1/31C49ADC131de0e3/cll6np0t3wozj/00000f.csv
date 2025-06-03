@@ -1,0 +1,1 @@
+"0","years_char <- unique(format(result$JOUR, ""%Y""))"
